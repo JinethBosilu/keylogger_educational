@@ -1,0 +1,9 @@
+.env
+__pycache__
+*.py[cod]
+*.log
+.env.*
+.vscode/
+Thumbs.db
+.DS_Store
+keylogger.log
